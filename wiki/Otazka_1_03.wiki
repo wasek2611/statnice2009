@@ -12,4 +12,4 @@ nemohu se prosim dopracovat k omezenim nalyzy trhu na strane poptavky a nabidky,
 
 Se svolenim Petra Koubskeho zverejnuji zde jeho brozuru obsahujici analyzu ceskeho IT trhu z roku 2007/2008.
 tato brozura je k nalezeni zde:
-[http://statnice2009.googlecode.com/files/RK_ICT.pdf brozura] 
+[http://statnice2009.googlecode.com/files/RK_ICT.pdf Informacni Brozura] 
