@@ -1,12 +1,13 @@
-#summary One-sentence summary of this page.
 #labels okruh1,1.03
+#pomoc s otakzou 1.03.
 
 = Otázka 1.03 =
 
-== POMOC ===
+== Prosba o POMOC ===
+
 nemohu se prosim dopracovat k omezenim nalyzy trhu na strane poptavky a nabidky, prosim o pomoc.
 
 
-= Vyborne dodatecne materialy =
+== Vyborne dodatecne materialy ==
 
 Se svolenim Petra Koubskeho zverejnuji zde jeho brozuru obsahujici analyzu ceskeho IT trhu z roku 2007/2008 
