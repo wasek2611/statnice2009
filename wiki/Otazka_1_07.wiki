@@ -1,0 +1,7 @@
+#pomoc s otazkou 1.07
+
+= Otázka 1.07 =
+
+== Druhy integrace ==
+
+* test 
