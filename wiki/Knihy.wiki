@@ -1,0 +1,11 @@
+#na Google books
+
+= Knihy na státnice =
+
+Jen tak mě napadlo, jestli na na Google Books nenajdu nějaké knihy, které jsou jako doporučená literatura na státnice (občas se to hodí pro upřesnění zpracované otázky). Byl jsem mile překvapen, že jich je tam celkem dost :-)
+
+[http://books.google.com/books?id=CRpMH-Ui7HkC&pg=PA3&dq=podnikov%C3%A1+informatika+pour&ei=euCaSuTpF6fkyQSzx-HqDg&hl=cs#v=onepage&q=&f=false Podnikové procesy od Řepy]
+Podniková informatika od Poura
+Podnikové informační systémey od Basla
+
+Jen ten Voříšek tam není ;-)
