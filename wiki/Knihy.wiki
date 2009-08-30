@@ -4,8 +4,10 @@
 
 Jen tak mě napadlo, jestli na na Google Books nenajdu nějaké knihy, které jsou jako doporučená literatura na státnice (občas se to hodí pro upřesnění zpracované otázky). Byl jsem mile překvapen, že jich je tam celkem dost :-)
 
-[http://books.google.com/books?id=CRpMH-Ui7HkC&pg=PA3&dq=podnikov%C3%A1+informatika+pour&ei=euCaSuTpF6fkyQSzx-HqDg&hl=cs#v=onepage&q=&f=false Podnikové procesy od Řepy]
-Podniková informatika od Poura
-Podnikové informační systémey od Basla
+[http://books.google.com/books?id=sHNX3rF2mCcC&printsec=frontcover&dq=podnikov%C3%A9+procesy+procesy+%C5%99epa&ei=3OGaSs3DBoGWyQT49eH2Dg&hl=cs#v=onepage&q=&f=false Podnikové procesy od Řepy]
+
+[http://books.google.com/books?id=CRpMH-Ui7HkC&pg=PA3&dq=podnikov%C3%A1+informatika+pour&ei=euCaSuTpF6fkyQSzx-HqDg&hl=cs#v=onepage&q=&f=false Podniková informatika od Poura]
+
+[http://books.google.com/books?id=woSiPpuZAaMC&printsec=frontcover&dq=podnikov%C3%A9+informa%C4%8Dn%C3%AD+syst%C3%A9my+Basl&ei=eOKaSvahEZy8yATq2pzkDg&hl=cs#v=onepage&q=&f=false Podnikové informační systémey od Basla]
 
 Jen ten Voříšek tam není ;-)
