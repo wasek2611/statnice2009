@@ -1,13 +1,20 @@
 #summary infomrace z konzultace s Voriskem k prubehu statnic a obhajoby
 
-= Introduction =
+= Prubeh statnic = 
 
-Add your content here.
+dnes jsem byl za Voriskem na kratke konzultaci k prubehu statnic, nize uvadim co jsem zjsitil:
+ 
+== Casove rozvrzeni zkousky ==
 
+Mate 30 min na pripravu a zatim nasleduje hodinova zkouska, kazda cast zhruiba po 20 minutach:
+ * odpoved na prvni a druhou otazku 
+ * obhajoba DP
 
-= Details =
+=== Obhajoba DP ===
+Jelikoz je na to 20 min, Vorisek doporucoval max. 5timinutovou prezentaci, kde je nuitno shrnout duvody, predpoklady a zavery prace ( nezapomente zduraznit i vvlastni prinos ;) ) po 5.minutach vas zarazi a vedouci s oponentem na preskacku kladou otazky. 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+=== Odpovedi na otazky - Statnice ===
+Jelikoz kazda otazka ma teoretickou a praktickou rovinu, tak me zajimalo na co vlastne mam odpovedet. Vyjadreni Voriska bylo nasledujici - pokud *vyresite praktickou ulohu nemusite u toho zminit ty teoreticke okruhy, ktere jsou u otazky uvedeny*. tedy otazky nejsou primarne od toho, aby byla zkousena teorie ale vase *prakticke uvazovani*. Vorisek rikal, ze otazku mam brat jako klasicky Case - najdu-li reseni a budu umet ho zduvodnit - je to moje volba. 
+
+Osobne si myslim, ze teorii tam budou chtit slyset, jinak proc by ji do nas ty 2 roky hustili?
+
