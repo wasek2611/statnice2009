@@ -1,4 +1,5 @@
-#labels Zpusonjakýmzapsatpředmětynastátnice
+#summary Způsob jakým zapsat předměty na státnice
+
 #informace o zapisu na statnice
 
 = Zápis mimosemestrálního kurzu =
