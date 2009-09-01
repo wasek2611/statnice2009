@@ -1,4 +1,4 @@
-#summary informace z konzultace s Voriskem k prubehu statnic a obhajoby DP
+#summary informace z konzultace s Voriskem k prubehu statnic a obhajoby DP + zazitky z diskuze na borci
 
 = Prubeh statnic = 
 
