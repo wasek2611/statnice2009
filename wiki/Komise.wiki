@@ -7,7 +7,7 @@ Ví někdo, jaké bude složení komise? Případně kde se to dozvíme?
 = Souhrn =
 
 ||datum/mistnost || NB 403|| NB 416 || NB 424||
-|| 7.9 ||  || 25 ||
-|| 8.9 || Vorisek || 30 ||
-|| 9.9 || Jandoš + Pavlíčková || 32 ||
+|| 7.9 || Pour  || n/a || n/a||
+|| 8.9 || || n/a || ||
+|| 9.9 || Jandoš + Pavlíčková || n/a || ||
 || 10.9 || _N/A_ || _N/A_ ||
