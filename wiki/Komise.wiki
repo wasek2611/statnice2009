@@ -6,9 +6,8 @@ Ví někdo, jaké bude složení komise? Případně kde se to dozvíme?
 
 = Souhrn =
 
-|| datum/mistnost || NB 403|| NB 416 || NB 424||
-|| 1900 || -10 || 25 ||
-|| 1910 || -15 || 30 ||
-|| 1920 || -10 || 32 ||
-|| 1930 || _N/A_ || _N/A_ ||
-|| 1940 || -2 || 40 ||
+||datum/mistnost || NB 403|| NB 416 || NB 424||
+|| 7.9 ||  || 25 ||
+|| 8.9 || Vorisek || 30 ||
+|| 9.9 || -10 || 32 ||
+|| 10.9 || _N/A_ || _N/A_ ||
