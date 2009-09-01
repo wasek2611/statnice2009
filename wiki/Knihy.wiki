@@ -1,4 +1,4 @@
-#summury Google books Pour, Basl, Řepa
+#summary Google books Pour, Basl, Řepa
 
 = Knihy na státnice =
 
