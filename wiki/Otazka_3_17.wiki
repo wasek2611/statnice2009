@@ -1,0 +1,12 @@
+# pomoc s metodikou SDM
+
+= Řízení a dokumentace projektů =
+
+Jedná se mi o úlohu u *otázky 3.17*, kde se máme rozhodovat mezi metodikou *Prince* a *SDM*. Bohužel o metodice SDM jsem nikde nic nenašel, jediné místo kde se o ni zmiňuje, je kniha od Řepy - Analýza a návrh informačních systémů. Nemáte nikdo tuto knihu, či aspoň nějaké info o té metodice SDM?
+
+
+_Znění úlohy_
+
+Jste vedoucím svého prvního velkého a důležitého projektu vývoje IS. Uvědomujete si, že jde o Vaší jedinečnou šanci, která podstatně ovlivní průběh Vaší další kariéry. Proto se snažíte maximálně využít dostupné metodiky a projekt řádně připravit. Potřebujete stanovit pravidla pro tvorbu dokumentace. Máte k dispozici metodiky SDM a Prince. Jelikož je třeba, aby dokumentace tvořila jeden konzistentní celek, usuzujete, že je třeba si vybrat jednu z nich. Při bližším zkoumání však zjišťujete, že jde o dva velice rozdílné pohledy na obsah dokumentace, které se prakticky nepřekrývají, přičemž ani jeden z nich zjevně není úplný. 
+
+= Details =
