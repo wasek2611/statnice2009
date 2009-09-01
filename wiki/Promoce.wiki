@@ -1,4 +1,3 @@
-#labels informacekpromocim
 #informace o promoci.
 
 = Termíny promoce =
