@@ -1,4 +1,4 @@
-# pomoc s metodikou SDM
+#summary pomoc s metodikou SDM
 
 = Řízení a dokumentace projektů =
 
