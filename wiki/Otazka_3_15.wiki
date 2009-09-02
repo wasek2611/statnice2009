@@ -1,5 +1,5 @@
 #labels 3.15
-#Pomoc s otazkou
+# Pomoc s otazkou
 
 Kolegove, mam problem s otazkou 3.15 - podle me neni moc dobre zpracpvana a sam moc nevim, co s ni... Takovy veci jako dopady zmen a jejich promitani od systemu - moc nevim, co o tom rikat.. Stejne tak i s tou udrzbou.. Nebo treba co je autorsky dozor?
 
