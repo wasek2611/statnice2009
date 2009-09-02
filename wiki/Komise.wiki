@@ -7,7 +7,7 @@ Ví někdo, jaké bude složení komise? Případně kde se to dozvíme?
 = Souhrn z komentaru =
 
 ||datum/mistnost || NB 403|| NB 416 || NB 424||
-|| 7.9 || Pour  || Vorisek, Novotny, Kunstova || Chocholaty + ?||
-|| 8.9 || -- || Vorisek || Basl s Palovskou ?||
+|| 7.9 || Pour, Pecinovsky  || Vorisek, Novotny, Kunstova || Chocholaty + ?||
+|| 8.9 || -- || Vorisek || Basl s Palovskou ||
 || 9.9 || Jandoš + Pavlíčková || n/a || n/a ||
 || 10.9 || n/a || n/a || Pavlicek + ?||
