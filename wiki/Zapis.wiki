@@ -23,3 +23,5 @@ Výpočetní centrum, VŠE
 ==*Info k zápisům*==
 
 http://isis.vse.cz/system/info_podrobne.pl?id=301
+
+*Finalni rozpis statnic: http://kit.vse.cz/KIT/WCMS_KIT.nsf/pages/RozpisProStatniZkousky.html *
