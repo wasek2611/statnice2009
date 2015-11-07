@@ -1,0 +1,13 @@
+# Knihy na státnice #
+
+Jen tak mě napadlo, jestli na na Google Books nenajdu nějaké knihy, které jsou jako doporučená literatura na státnice (občas se to hodí pro upřesnění zpracované otázky). Byl jsem mile překvapen, že jich je tam celkem dost :-)
+
+[Podnikové procesy od Řepy](http://books.google.com/books?id=sHNX3rF2mCcC&printsec=frontcover&dq=podnikov%C3%A9+procesy+procesy+%C5%99epa&ei=3OGaSs3DBoGWyQT49eH2Dg&hl=cs#v=onepage&q=&f=false)
+
+[Podniková informatika od Poura](http://books.google.com/books?id=CRpMH-Ui7HkC&pg=PA3&dq=podnikov%C3%A1+informatika+pour&ei=euCaSuTpF6fkyQSzx-HqDg&hl=cs#v=onepage&q=&f=false)
+
+[Podnikové informační systémey od Basla](http://books.google.com/books?id=woSiPpuZAaMC&printsec=frontcover&dq=podnikov%C3%A9+informa%C4%8Dn%C3%AD+syst%C3%A9my+Basl&ei=eOKaSvahEZy8yATq2pzkDg&hl=cs#v=onepage&q=&f=false)
+
+**Nové** [Zásady a postupy zavádění podnikových informačních systémů](http://books.google.com/books?id=7gLPXVX_88sC&pg=PT175&dq=anal%C3%BDza+a+n%C3%A1vrh+informa%C4%8Dn%C3%ADch+syst%C3%A9mu&hl=cs#v=onepage&q=anal%C3%BDza%20a%20n%C3%A1vrh%20informa%C4%8Dn%C3%ADch%20syst%C3%A9mu&f=false)
+
+Jen ten Voříšek tam není ;-)

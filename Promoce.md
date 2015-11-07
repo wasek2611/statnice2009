@@ -1,0 +1,9 @@
+# Termíny promoce #
+Jelikož jsem potřeboval znát termíny promoce, tak jsem kontaktoval studijní referentku Ivu Hudcovou. Řekla mi, že přesný termín ještě neví, neboť se o něm bude rozhodovat koncem září spolu s dalšími tajemnicemi. Nicméně jsou prý to bude jeden z těchto 3 termínů:
+
+Možné termíny promoce:
+23.10
+30.10
+6.11
+
+Pokud by někdo z vážných důvodů nemohl dorazit na promoci, tak je možné ji odložit na březnový, či červnový termín, aby rodina nepřišla o ten krásný ceremoniál (po těch letech si to zaslouží...)

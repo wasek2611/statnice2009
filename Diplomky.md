@@ -1,0 +1,53 @@
+# Diplomky #
+
+Jak dopadla vase DP? Nejake postrehy z hodnoceni (rozdil v budech oponent vs. vedouci). Meli jste vlastniho oponenta, nebo jste si nechali pridelit.
+
+# Rady k obhajobě DP #
+**_jeste pretiskuju, co nasi skupine (streda dop, 403) na obhajoby poslal Gala jako radu k obhajobam:_**
+
+Pro obhajobu práce si připravte sousislou plynulou řeč, kterou začnete po vyzvání. Doporučuji cca 3 -5 minut. Doporučuji se ji naučit jako básničku bez nějakých papírů. Přednes obhajoby by měl být uspořádaný bez nějakého zadrhávání. Tímto se komisi vlastně představujete a dojem z tohoto představení ovlivňuje nejen průběh obhajoby, ale i to jak se na vás komise dívá, když budete odpovídat na zkušební otázku.
+
+Co by mělo být obsahem této řeči: 1. Téma a cíl Zde by mělo být asi následující: Tématem mé práce je bla bla bla, protože se domnívám (na základě studia litaratury| vlastní praktické zkušenosti, ...) bla bla bla. V rámci tohoto problému jsme si jako cíl své práce zvolil bla bla bla, protože (není dostatečně v literatuře popsána| z vlastní zkušenosti vím, že je to problém při praktickém řešení,...) 2. Přístup ke zpracování a postup dosažení cíle Abych tohoto cíle dosáhl, pak jsem zvolil následující postup. Nejprve jsem bla bla, potom jsme bla bla. To vytvořilo základní teoretické východiska proto, abych mohl bla bla. V oblasti XY jsem využíval především bla bla (literaturu, publikované analýzy, ...). Pro oblast XZ jsem si upravil (zvolil) metodu XX (multikriteriálního hodnocení| syntézu, ...). To mi umožnilo zformulovat obecný model (přístup), který jsem se pokusil ověřit na vybraném vzorku (čeho - bla bla). 3. Stupeň naplnění cíle, omezení práce, možné využití Domnívám se, že se mi formulovaný cíl, tj. (zde znovu cíl zopakovat) podařilo (v zásadě) naplnit. Výsledky bych charakterizoval následovně - (tady třeba výčet klíčových poznatků). V tak širokém tématu, i když jsem ho cílem zúžil existuje v mé práci následující omezení (nedostetk zdrojů, malý vzorek pro ověření, ...) Domnívám se, že práce, respektive její výsledky mohou být využity v následujících oblastech - bla bla bla.
+
+Po vaší řeči budou předneseny posudky. Pokud se v nich objevilo něco jako otázka - pak si připravte předem odpověď. Totéž se týká nějakých výtek. Opět byste měli reagovat z patra, s určitým nadhledem, ale také "pokorou". Určitě je rozumné třeba na výtky reagovat tak, že jsou oprávněné, ale že jste z důvodů XY jejich řešení nezahrnul do své práce.
+
+Pak přijdou na řadu otázky. Co se týká otázek, opět je vhodné si to nějak strukturovat. - Jeprve říci, do jaké oblasti (k jakému tématu) se otázka vztahuje - tj. zařadit ji do kontextu. - Ve stejné úrovni podrobnosti, z různých úhlů pohledu vysvětlit podstatu problému, který se za otázkou skrývá. Uvést hlavní definice. Pokud něco definujete nebo dáváte nějaká tvrzení a víte, že existuje vícero názorů na věc, pak neopomeňte uvést, že dané tvrzení je podle autora XY) - Vyberte si nějakou část a u ní jděte do hloubky (podrobností) - U některých otázek jsou tzv. úlohy. Nepodceňujte jejich přípravu..
+
+
+# Presunuta komunikace z vlakna o Komisich #
+**Comment by lovermann, Today (7 hours ago)**
+
+Já jsem to s oponentem tak trochu posral. Jelikož zásadou mého studia na VŠE bylo všechno vždy dozvídat jako poslední, tak jsem nevěděl, že mi můj vedoucí již oponenta přidělil (někdo z katedry), no a tak jsem si hledal někoho ze školy. Nakonec to byla jedná slečna z třetí fakulty. No, pánové, pokud bych měl stručně říci, tak mezi řádky jsem četl, že by mě k obhajobě nepustila. Hodnocení: 41%. Proč jsem jí vybíral! >:-/
+
+
+**Comment by zikmund.martin, Today (4 hours ago)**
+
+Dmitri: Koukal jsem na to hodnoceni oponentky (Francova), celkem me prekvapila, protoze ja ji znal jako prijemnou zenskou a to hodnoceni co ti dala je dost drsny :-( Podle me problem je v tom, ze ona se na to divala jako psycholozka a dle toho to hodnotila. Z psychologickeho uhlu pohledu tvoje prace asi nemam dostatecne fundovany zaklad a nejspise jsi nekolikrat i pouzil nespravne terminy :-( Chtelo to mit oponenta nejakeho informatika, co by se na to dival z jineho uhlu... viz. hodnoceni vedouciho, ktere je vyrazne lepsi. Taky jsem resil dilema zda mit oponenta vlastniho, nebo si ho nechat pridelit. Drzim palce at tu praci obhajis :-) (k cemuz by ti urcite pomohlo, kdyby tam oponentka radsi neprisla na zivo)
+
+
+**Comment by zikmund.martin, Today (4 hours ago)**
+
+Kdyz uz Dmitri nadhodil hodnoceni DP, zajimalo by me, jestli mate velky rozdil mezi hodnocenim vedouciho a oponenta? Ja je mam zhruba stejne: Vedouci 95,7% a oponent 93,6%.
+
+
+
+**Comment by safarik.tomas, Today (103 minutes ago)**
+
+ani ne, ja necelych 6 bodu, ale jak jsem koukal, tak to hodne zavisi na tom jaky se sesel vedouci a oponent (pokud chcete probirat diplomky, nepresunout to na samostatnou stranku?)
+
+
+**Comment by mdrazil, Today (98 minutes ago)**
+
+U me taky ne, mam to nejak kolem 81 a 83. Mozna by bylo vhodnejsi resit to na samostatny strance..
+
+
+
+**Comment by trckaa, Today (67 minutes ago)**
+
+ja mam 83 a 93 (vedouci X oponent).
+
+jinak nechci si uzurpovat pravo hodnotit nebo bejt nejak hnusnej, ale dost se divim, ze se ti Dmitri pod to cos odevzdal Basl podepsal.
+
+Nehodnotim obsahovou stranku (ale napsat, ze mluvena komunikace je mene srozumitelna nez psana (coz je proti snad vsem psychologickejm clankum/kniham) a dat to do ruky nekomu na katedre psychologie je dost sila (a to je Tereza jeste hodne hodne hodna, mit to Novy tak to dal ani necte), ale kdyz si vzpomenu jak mi Chlapek dvakrat vratil muj uvod s tim, ze je psany moc obecnou cestinou v kontrastu s tvym povidanim o tom jak si nedavno udelal zkousku a to nemluvim ani o tom, ze tam nemas ani cislovani stranek. no dost dobre se divim, ze ti tohle proslo...
+
+neber to az tak zle, ale jenom me to zarazilo...tot vse :)

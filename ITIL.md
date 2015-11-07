@@ -1,0 +1,3 @@
+# Jakou verzi ITILu se mam ucit? #
+
+poradte prosim s jakou verzi itilu mam pocitat na statnicich? jsou obe i kdyz je clovek cte ve zkrtatce jsou dost objemne...

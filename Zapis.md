@@ -1,0 +1,25 @@
+# Přihlašování na státní zkoušky a obhajoby závěrečných prací #
+
+**Vážení studenti,**
+
+během dnešního dne mnoho z Vás očekávalo zpřístupnění termínů státních zkoušek a obhajob závěrečných prací na měsíc září. Kvůli technickým problémům však byly termíny na ZS 2009 / 2010 zpřístupněny pouze studentům, kteří měli v předchozím semestru přerušené studium. Ostatní nemají k termínům vypsaným na zimní semestr přístup.
+
+Během zítřejšího dne začnou jednotlivé katedry postupně vypisovat termíny, na které se již budete moci hlásit. Příslušné předměty představující státní zkoušky a obhajoby závěrečných prací budou formálně zařazeny do **LS 2008 / 2009** a najdete je v seznamu mimosemestrálních kurzů (odkaz Portál studenta -> Zápisy do mimosemestrálních kurzů).
+
+Po zapsání správného mimosemestrálního kurzu se budete moci přihlásit na konkrétní termín zkoušky, seznam termínů opět najdete v příslušné aplikaci (odkaz Portál studenta -> Přihlašování na zkoušky).
+
+Pokud se chcete přihlásit na termín státní zkoušky nebo obhajoby v měsíci září, musíte tak učinit nejpozději do 19. 9. 2009. Později již nebude zápis na zářijové termíny možný.
+
+Toto se vztahuje na všechny státní zkoušky z hlavních a vedlejších specializací, obhajoby bakalářských a diplomových prací a také na souborné a bakalářské zkoušky studijních plánů C a D.
+
+Případné dotazy můžete zasílat na adresu isis@vse.cz.
+
+Omlouváme se za vzniklé komplikace.
+
+Výpočetní centrum, VŠE
+
+## **Info k zápisům** ##
+
+http://isis.vse.cz/system/info_podrobne.pl?id=301
+
+**Finalni rozpis statnic: http://kit.vse.cz/KIT/WCMS_KIT.nsf/pages/RozpisProStatniZkousky.html**

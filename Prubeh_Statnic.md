@@ -1,0 +1,32 @@
+# Prubeh statnic #
+
+dnes jsem byl za Voriskem na kratke konzultaci k prubehu statnic, nize uvadim co jsem zjsitil:
+
+## Casove rozvrzeni zkousky ##
+
+Mate 30 min na pripravu a zatim nasleduje hodinova zkouska, kazda cast zhruiba po 20 minutach:
+  * obhajoba DP
+  * odpoved na prvni a druhou otazku
+
+### Obhajoba DP ###
+Prvni an rade je Obhajoba. Jelikoz je na to 20 min, Vorisek doporucoval max. 5timinutovou prezentaci, kde je nutno shrnout duvody, predpoklady a zavery prace ( nezapomente zduraznit i vlastni prinos ;) ) po 5.minutach vas zarazi a vedouci s oponentem na preskacku kladou otazky.
+
+### Odpovedi na otazky - Statnice ###
+Jelikoz kazda otazka ma teoretickou a praktickou rovinu, tak me zajimalo na co vlastne mam odpovedet. Vyjadreni Voriska bylo nasledujici - pokud **vyresite praktickou ulohu nemusite u toho zminit ty teoreticke okruhy, ktere jsou u otazky uvedeny**. tedy otazky nejsou primarne od toho, aby byla zkousena teorie ale vase **prakticke uvazovani**. Vorisek rikal, ze otazku mam brat jako klasicky Case - najdu-li reseni a budu umet ho zduvodnit - je to moje volba.
+
+Osobne si myslim, ze teorii tam budou chtit slyset, jinak proc by ji do nas ty 2 roky hustili?
+
+
+
+# zazitky ze statnic #
+
+**zdroj: diskuze@vseborec.cz**
+
+Tak sem z5 ze statnic. Z pekla stesti na otazky i komisi, Bruckner + Pecinovsky a dal sem to tak tak. Otazky AI 17 - CRM a Vyvoj 25 - Agilni metodiky. Vedlo se to v pratelskym duchu, napred obhajoba, pak statnice.
+Jen pro ostatni, posudky je zadouci mit v papirove podobe a podepsany od vedouciho i oponenta. Ja si dneska jeste ty podpisy musel vybehat, abych to mel v poradku, tak kdo to mate jenom elektronicky odeslany na katedru, tak si radsi nejak zajistete ty podepsany papirovy verze - predevsim pokud mate externiho oponenta, pokud mate u zkousky vedouciho nebo i oponenta, muzou to podepsat tam.
+Takze good luck.
+autor: ICQ 169991838 muž DrDiesel F4-IN znám ho?  Profil uživatele profil uživatele sledovat, vloženo: 1. září 2008 13:23
+
+**zdroj: vypoved kamarada**
+
+Pry je to takove pratelske popovidani s "kolegy". Nemelo by to byt nijak hrozive, samozrejme zalezi na clenech komise.

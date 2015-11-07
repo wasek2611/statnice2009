@@ -1,0 +1,20 @@
+#pomoc s otazkou 1.07
+
+# Otázka 1.07 #
+
+povedlo se mi vyzobat nasledujici info:
+
+## Druhy integrace ##
+
+  * dat
+  * aplikací
+  * procesů
+  * B2B
+  * GUI
+  * Metodik
+  * HW a technologií
+
+# POMOC #
+potreboval bych pomoc s definovaním
+### zákaldních principů integrace ###
+### cílů integrace ###

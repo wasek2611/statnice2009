@@ -1,0 +1,16 @@
+#pomoc s otazkou 1.03.
+
+# Otázka 1.03 #
+
+## Prosba o POMOC ##
+
+nemohu se prosim dopracovat k omezenim nalyzy trhu na strane poptavky a nabidky, prosim o pomoc.
+
+---
+
+
+## Vyborne dodatecne materialy ##
+
+Se svolenim Petra Koubskeho zverejnuji zde jeho brozuru obsahujici analyzu ceskeho IT trhu z roku 2007/2008.
+tato brozura je k nalezeni zde:
+[Informacni Brozura](http://statnice2009.googlecode.com/files/RK_ICT.pdf)
